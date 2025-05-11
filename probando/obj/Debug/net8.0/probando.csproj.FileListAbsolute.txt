@@ -1,0 +1,15 @@
+/workspaces/MiPrimeGit/probando/bin/Debug/net8.0/probando
+/workspaces/MiPrimeGit/probando/bin/Debug/net8.0/probando.deps.json
+/workspaces/MiPrimeGit/probando/bin/Debug/net8.0/probando.runtimeconfig.json
+/workspaces/MiPrimeGit/probando/bin/Debug/net8.0/probando.dll
+/workspaces/MiPrimeGit/probando/bin/Debug/net8.0/probando.pdb
+/workspaces/MiPrimeGit/probando/obj/Debug/net8.0/probando.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/MiPrimeGit/probando/obj/Debug/net8.0/probando.AssemblyInfoInputs.cache
+/workspaces/MiPrimeGit/probando/obj/Debug/net8.0/probando.AssemblyInfo.cs
+/workspaces/MiPrimeGit/probando/obj/Debug/net8.0/probando.csproj.CoreCompileInputs.cache
+/workspaces/MiPrimeGit/probando/obj/Debug/net8.0/probando.sourcelink.json
+/workspaces/MiPrimeGit/probando/obj/Debug/net8.0/probando.dll
+/workspaces/MiPrimeGit/probando/obj/Debug/net8.0/refint/probando.dll
+/workspaces/MiPrimeGit/probando/obj/Debug/net8.0/probando.pdb
+/workspaces/MiPrimeGit/probando/obj/Debug/net8.0/probando.genruntimeconfig.cache
+/workspaces/MiPrimeGit/probando/obj/Debug/net8.0/ref/probando.dll
